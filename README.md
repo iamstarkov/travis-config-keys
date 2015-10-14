@@ -1,4 +1,4 @@
-# travis-config-props
+# travis-config-keys
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -9,12 +9,12 @@
 
 ## Install
 
-    npm install --save travis-config-props
+    npm install --save travis-config-keys
 
 ## Usage
 
 ```js
-import travisConfigProps from 'travis-config-props';
+import travisConfigProps from 'travis-config-keys';
 
 travisConfigProps('unicorns'); // unicorns
 ```
@@ -25,7 +25,7 @@ travisConfigProps('unicorns'); // unicorns
 
 #### input
 
-*Required*  
+*Required*
 Type: `String`
 
 Lorem ipsum.
@@ -34,7 +34,7 @@ Lorem ipsum.
 
 ##### foo
 
-Type: `Boolean`  
+Type: `Boolean`
 Default: `false`
 
 Lorem ipsum.
@@ -43,14 +43,14 @@ Lorem ipsum.
 
 MIT © [Vladimir Starkov](https://iamstarkov.com)
 
-[npm-url]: https://npmjs.org/package/travis-config-props
-[npm-image]: https://img.shields.io/npm/v/travis-config-props.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/travis-config-keys
+[npm-image]: https://img.shields.io/npm/v/travis-config-keys.svg?style=flat-square
 
-[travis-url]: https://travis-ci.org/iamstarkov/travis-config-props
-[travis-image]: https://img.shields.io/travis/iamstarkov/travis-config-props.svg?style=flat-square
+[travis-url]: https://travis-ci.org/iamstarkov/travis-config-keys
+[travis-image]: https://img.shields.io/travis/iamstarkov/travis-config-keys.svg?style=flat-square
 
-[coveralls-url]: https://coveralls.io/r/iamstarkov/travis-config-props
-[coveralls-image]: https://img.shields.io/coveralls/iamstarkov/travis-config-props.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/iamstarkov/travis-config-keys
+[coveralls-image]: https://img.shields.io/coveralls/iamstarkov/travis-config-keys.svg?style=flat-square
 
-[depstat-url]: https://david-dm.org/iamstarkov/travis-config-props
-[depstat-image]: https://david-dm.org/iamstarkov/travis-config-props.svg?style=flat-square
+[depstat-url]: https://david-dm.org/iamstarkov/travis-config-keys
+[depstat-image]: https://david-dm.org/iamstarkov/travis-config-keys.svg?style=flat-square

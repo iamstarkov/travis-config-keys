@@ -1,5 +1,5 @@
 {
-  "name": "travis-config-props",
+  "name": "travis-config-keys",
   "version": "0.0.0",
   "description": "Travis config&#39;s properties in correct order",
   "main": "index.es5.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstarkov/travis-config-props.git"
+    "url": "git+https://github.com/iamstarkov/travis-config-keys.git"
   },
   "keywords": [
     "travis",
@@ -26,9 +26,9 @@
   "author": "Vladimir Starkov <vladimir.starkov@nordnet.se> (https://iamstarkov.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamstarkov/travis-config-props/issues"
+    "url": "https://github.com/iamstarkov/travis-config-keys/issues"
   },
-  "homepage": "https://github.com/iamstarkov/travis-config-props#readme",
+  "homepage": "https://github.com/iamstarkov/travis-config-keys#readme",
   "devDependencies": {
     "assert": "*",
     "babel": "*",
