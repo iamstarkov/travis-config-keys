@@ -16,28 +16,9 @@
 ```js
 import travisConfigKeys from 'travis-config-keys';
 
-travisConfigKeys('unicorns'); // unicorns
+// Array of travis config keys in proper order
+console.log(travisConfigKeys); // […]
 ```
-
-## API
-
-### travisConfigKeys(input, [options])
-
-#### input
-
-*Required*
-Type: `String`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `Boolean`
-Default: `false`
-
-Lorem ipsum.
 
 ## License
 
