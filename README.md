@@ -5,7 +5,7 @@
 [![Coveralls Status][coveralls-image]][coveralls-url]
 [![Dependency Status][depstat-image]][depstat-url]
 
-> Travis config&#39;s properties in correct order
+> Travis configs properties in correct order
 
 ## Install
 

@@ -1,7 +1,7 @@
 {
   "name": "travis-config-keys",
   "version": "0.0.0",
-  "description": "Travis config&#39;s properties in correct order",
+  "description": "Travis configs properties in correct order",
   "main": "index.es5.js",
   "scripts": {
     "coverage": "isparta cover _mocha index.js -- --require babel/register",
