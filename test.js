@@ -1,5 +1,5 @@
 import { equal } from 'assert';
-import travisConfigProps from './index';
+import travisConfigKeys from './index';
 
-it('should travisConfigProps', () =>
-  equal(travisConfigProps.length, 13));
+it('should travisConfigKeys', () =>
+  equal(travisConfigKeys.length, 13));

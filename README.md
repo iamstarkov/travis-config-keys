@@ -14,14 +14,14 @@
 ## Usage
 
 ```js
-import travisConfigProps from 'travis-config-keys';
+import travisConfigKeys from 'travis-config-keys';
 
-travisConfigProps('unicorns'); // unicorns
+travisConfigKeys('unicorns'); // unicorns
 ```
 
 ## API
 
-### travisConfigProps(input, [options])
+### travisConfigKeys(input, [options])
 
 #### input
 
