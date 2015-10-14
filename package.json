@@ -1,6 +1,6 @@
 {
   "name": "travis-config-keys",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Travis configs properties in correct order",
   "main": "index.es5.js",
   "scripts": {
