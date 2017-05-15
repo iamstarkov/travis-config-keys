@@ -34,7 +34,7 @@
     "babel": "*",
     "coveralls": "*",
     "isparta": "*",
-    "mocha": "*",
+    "mocha": ">=3.4.1",
     "npm-run-all": "*",
     "rimraf": "*"
   }
