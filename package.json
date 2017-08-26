@@ -35,7 +35,7 @@
     "coveralls": "*",
     "isparta": "*",
     "mocha": "*",
-    "npm-run-all": "*",
+    "npm-run-all": "4.0.2",
     "rimraf": "*"
   }
 }
