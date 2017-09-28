@@ -32,7 +32,7 @@
   "devDependencies": {
     "assert": "*",
     "babel": "*",
-    "coveralls": "*",
+    "coveralls": ">=2.13.2",
     "isparta": "*",
     "mocha": "*",
     "npm-run-all": "*",
